@@ -4,5 +4,21 @@
     "axios": "^1.2.0",
     "ethereum-cryptography": "^1.1.2",
     "express": "^4.18.2"
-  }
+  },
+  "description": "To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alchemyplatform/GiftList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alchemyplatform/GiftList/issues"
+  },
+  "homepage": "https://github.com/alchemyplatform/GiftList#readme"
 }
